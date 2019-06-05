@@ -4,8 +4,8 @@
    table of contents
 
 
-word-count
-==========
+word-count-added
+================
 
 .. toctree::
    :maxdepth: 2
